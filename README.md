@@ -1,4 +1,4 @@
-# viberesearcher
+# VibeResearcher
 VibeResearcher is a PoC showing how agents based on LLMs can do automated model research.
 
 ## How it works
