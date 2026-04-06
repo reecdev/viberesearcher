@@ -2,7 +2,7 @@
 VibeResearcher is a PoC showing how agents based on LLMs can do automated model research.
 
 ## How it works
-VibeResearcher uses a ReAct loop where an agent can save notes, write training data, and train models. When a model is finished training, the newly-trained model's results is given to the agent, and the agent adjusts the training data until you get a smart model.
+VibeResearcher uses a ReAct loop where an agent can save notes, write training data, and train models. When a model is finished training, the newly-trained model's results is given to the agent, and the agent adjusts the training data until you get a smart model. The agent takes notes and makes hypothesises along the way.
 
 ## How to use
 If you have dependencies installed, run main.py and create the files `notes.md` and `pairs.jsonl` if they don't exist yet.
